@@ -1,0 +1,94 @@
+{
+  "organisation": "NayePankh Foundation",
+  "founded": "28 March 2021",
+  "location": "Kanpur & Ghaziabad, UP, India",
+  "registration": "UP Govt. | 80G & 12A",
+  "total_beneficiaries": 263345,
+  "total_donations_inr": 3948102,
+  "peak_volunteers": 564,
+  "edu_sessions": 5820,
+  "active_cities": 6,
+  "yoy_growth_pct": 17.65,
+  "city_data": [
+    {
+      "city": "Kanpur",
+      "beneficiaries": 92170,
+      "volunteers": 6835,
+      "events_held": 197,
+      "donations_inr": 1381835
+    },
+    {
+      "city": "Ghaziabad",
+      "beneficiaries": 73736,
+      "volunteers": 5468,
+      "events_held": 47,
+      "donations_inr": 1105468
+    },
+    {
+      "city": "Lucknow",
+      "beneficiaries": 39501,
+      "volunteers": 2929,
+      "events_held": 239,
+      "donations_inr": 592215
+    },
+    {
+      "city": "Prayagraj",
+      "beneficiaries": 26334,
+      "volunteers": 1953,
+      "events_held": 60,
+      "donations_inr": 394810
+    },
+    {
+      "city": "Agra",
+      "beneficiaries": 18434,
+      "volunteers": 1367,
+      "events_held": 247,
+      "donations_inr": 276367
+    },
+    {
+      "city": "Varanasi",
+      "beneficiaries": 13167,
+      "volunteers": 976,
+      "events_held": 211,
+      "donations_inr": 197405
+    }
+  ],
+  "program_data": [
+    {
+      "program": "Food Distribution",
+      "beneficiaries": 100071,
+      "budget_inr": 1500278,
+      "events": 551,
+      "volunteers": 7421
+    },
+    {
+      "program": "Clothes Drive",
+      "beneficiaries": 57935,
+      "budget_inr": 868582,
+      "events": 194,
+      "volunteers": 4296
+    },
+    {
+      "program": "Sanitary Napkins",
+      "beneficiaries": 52669,
+      "budget_inr": 789620,
+      "events": 250,
+      "volunteers": 3906
+    },
+    {
+      "program": "Education",
+      "beneficiaries": 39501,
+      "budget_inr": 592215,
+      "events": 510,
+      "volunteers": 2929
+    },
+    {
+      "program": "Animal Welfare",
+      "beneficiaries": 13167,
+      "budget_inr": 197405,
+      "events": 596,
+      "volunteers": 976
+    }
+  ],
+  "generated_at": "2026-06-21T00:31:05.314425"
+}

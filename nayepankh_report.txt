@@ -1,0 +1,123 @@
+
+╔══════════════════════════════════════════════════════════════════╗
+║         NAYEPANKH FOUNDATION — AUTOMATED ANALYTICS REPORT      ║
+║                  Generated: 21 June 2026, 00:31                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+ABOUT THE ORGANISATION
+───────────────────────
+Name       : NayePankh Foundation
+Founded    : 28 March 2021 (Kanpur, Uttar Pradesh)
+Type       : UP Govt. Registered NGO
+Certif.    : 80G & 12A (Income Tax Act) — Donations are 50% tax exempt
+Mission    : Uplift underprivileged communities through food, clothing,
+             sanitary hygiene, education & animal welfare
+Founder    : Prashant Shukla (President)
+Contact    : contact@nayepankh.com | +91-8318500748
+Website    : https://nayepankh.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1 — CUMULATIVE IMPACT (Mar 2021 – Jun 2026)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Beneficiaries Helped :      263,345
+  Total Donations Raised (₹) :    3,948,102
+  Peak Volunteer Strength    :          564
+  Education Sessions Held    :        5,820
+  Cities with Active Ops     :            6
+  Total Donation Records     :        3,000
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2 — PROGRAM-WISE BREAKDOWN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Program                    Beneficiaries     Budget (₹)   Events
+-----------------------------------------------------------------
+  Food Distribution              100,071      1,500,278      551
+  Clothes Drive                   57,935        868,582      194
+  Sanitary Napkins                52,669        789,620      250
+  Education                       39,501        592,215      510
+  Animal Welfare                  13,167        197,405      596
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3 — CITY-WISE OPERATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+City             Beneficiaries   Volunteers    Donations (₹)
+------------------------------------------------------------
+  Kanpur                92,170        6,835        1,381,835
+  Ghaziabad             73,736        5,468        1,105,468
+  Lucknow               39,501        2,929          592,215
+  Prayagraj             26,334        1,953          394,810
+  Agra                  18,434        1,367          276,367
+  Varanasi              13,167          976          197,405
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4 — VOLUNTEER DEMOGRAPHICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Volunteer Records    : 1,200
+  Average Age                : 20.6 years
+  Age Range                  : 16 – 31 years
+  Gender Split               : {'Male': 635, 'Female': 546, 'Other': 19}
+  Avg. Hours / Month         : 11.9 hrs
+  Most Common Role           : Field Volunteer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5 — DONATION ANALYTICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Donations (₹)        : 4,511,614
+  Average Donation (₹)       : 1,504
+  Median Donation (₹)        : 1,073
+  Highest Single Donation(₹) : 13,709
+  Top Donation Source        : Online Portal
+  Recurring vs One-time      : {'One-time': 1922, 'Recurring': 1078}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6 — TREND & CORRELATION ANALYSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Volunteers ↔ Beneficiaries (r): 0.981  (Strong positive)
+  Donations  ↔ Beneficiaries (r): 0.940  (Strong positive)
+  YoY Beneficiary Growth 24→25  : 17.7%
+  YoY Donation Growth 24→25     : 21.3%
+  Top Performing City           : Kanpur
+  Top Performing Program        : Food Distribution
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7 — KEY INSIGHTS & RECOMMENDATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅  1. The organisation shows consistent logistic growth — volunteer
+          count and beneficiaries are strongly correlated (r≈0.98),
+          confirming the volunteer-driven impact model.
+
+  ✅  2. Kanpur is the strongest city — directing additional
+          resources and replicating its model in smaller cities can
+          accelerate national impact.
+
+  ✅  3. Online Portal is the highest-grossing donation channel.
+          Increasing digital fundraising campaigns on LinkedIn & Instagram
+          can further grow the donation base.
+
+  ✅  4. ~35% of donations are recurring, which builds financial
+          stability. Targeting 50% recurring donations by 2027 is
+          a realistic and impactful goal.
+
+  ✅  5. Volunteers have an average age of 21 years — a very young
+          base. Structured mentorship and certification programs can
+          improve retention and deepen engagement.
+
+  ✅  6. The 12-month forecast projects continued upward growth in
+          all KPIs. Expanding to 3 additional tier-2 UP cities in
+          FY 2026–27 is strongly supported by the data.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OUTPUT FILES GENERATED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📊  nayepankh_dashboard.png  — 8-panel KPI dashboard
+  📈  nayepankh_forecast.png   — 12-month trend forecasts
+  🔍  nayepankh_deepdive.png   — Volunteer & donation deep-dive
+  📄  nayepankh_report.txt     — This automated report
+  💾  nayepankh_data.json      — Structured summary data (JSON)
+  🐍  nayepankh_analytics.py   — Full Python source code
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Data based on publicly available info from nayepankh.com
+  Simulated datasets for analytical demonstration purposes.
+  "Service to mankind is the service to God." — NayePankh Foundation
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
